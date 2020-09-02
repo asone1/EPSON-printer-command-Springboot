@@ -7,7 +7,7 @@ Framework:sprintboot
 Local Printer:EPSON LQ690C
 Queue server: RabbitMq
 
-Flow:
+Flow:<br/>
 1.Client sets up printer locally, and downloads spring-boot application.<br/>
 2.Spring-boot application requires basic information.<br/>
 3.After the 'receive' button clicked, the application starts listening.<br/>
