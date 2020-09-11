@@ -2,10 +2,10 @@
 Discription:
 Using springboot as framework to boot up a application that directly sends printing command (ESC/P).
 
-Specification:
-Framework:sprintboot
-Local Printer:EPSON LQ690C
-Queue server: RabbitMq
+<br>Specification:<br>
+<br>Framework:sprintboot<br>
+<br>Local Printer:EPSON LQ690C<br>
+<br>Queue server: RabbitMq<br>
 
 Flow:<br/>
 1.Client sets up printer locally, and downloads spring-boot application.<br/>
